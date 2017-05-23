@@ -1,18 +1,18 @@
+h, h1, h2, h3, h4, h5, h6, p, ul {
+  font-family: 'Open Sans', sans-serif;
+}
+
 h1 {
   color: LightCoral;
   text-align: center;
 }
 
 h2 {
-  font-style: italic;
+  font-weight: 300;
   text-align: center;
 }
 
-p {
-  font-family: sans-serif;
-}
-
 ul {
-  font-size: 20px;
+  font-size: 14px;
   line-height: 30px;
 }
